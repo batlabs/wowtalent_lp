@@ -166,7 +166,7 @@ html[dir=rtl] .app__logo-wrapper {
 }
 @media (max-width: 768px) {
   .app__description {
-    margin-top: 8px;
+    margin-top: 5px;
     margin-bottom: 0;
   }
 }
